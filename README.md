@@ -3,15 +3,15 @@ Project Overview
 This project analyzes Pizza Hut sales data using SQL to gain insights into sales performance, customer preferences, and revenue trends. The report covers:
 
 ## Introduction to deep note
-THis project is done using Deepnote which is like the jupyter on streoids which have lot of fnctionlatities like executing python , SQL and R programs and make an analysis out of it. the best part is you can make an app out of our analyis and share in by two to three steps.
+This project is done using Deepnote which is like an SQL program and makes an analysis out of it. The best part is you can make an app out of our analysis and share it in two to three steps.
 ## Top-selling pizzas and item popularity
 Sales trends over time and by season
 Customer demographics and order preferences
 Revenue analysis by order type
 These insights help in making data-driven decisions to optimize sales strategies and improve customer satisfaction.
 
-# Project Structure
-SQL Queries: All SQL queries used to extract, filter, and aggregate data.
+## Project Structure
+SQL Queries: All SQL queries are used to extract, filter, and aggregate data.
 Data Files: Sample data used for the analysis.
 Report PDF: Download the Full Pizza Hut Sales Report
 Getting Started
